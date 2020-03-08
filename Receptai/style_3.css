@@ -1,0 +1,55 @@
+img{
+    
+    height: 250px;
+
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 25pt;
+    text-align: center;
+}
+td{
+    color: rgb(0, 0, 0);
+    font-size: 25pt;
+    text-align: center;
+}
+table, td{
+   border: solid 1px rgb(255, 81, 0);
+  
+   margin: auto;
+
+}
+.klase
+{
+    text-align: center;
+    font-size: 100pt;
+   color: orange;
+}
+.klase1{
+color: black;
+font-size: 70pt;
+text-align: left;
+}
+
+body{
+    background-color: bisque;
+}
+#vardas{
+    color: orange;
+    text-align: right;
+    font-size: 25pt;
+}
+.klase2{
+    color: black;
+font-size: 25pt;
+text-align: left;
+}
+.klase3{
+    height: 260px;
+    width: auto;
+
+}
+.klase4{
+    height: 50px;
+    width: auto;
+}
